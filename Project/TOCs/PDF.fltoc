@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultToc
   Version="1"
   conditions="">
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/E-Frontmatter-Topics/Title.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    Link="/Content/00_Cover_and_Topics/00_00_Cover_and_Topics.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
     BreakType="pageLayout"
     PageType="title"
     StartSection="false"
@@ -17,7 +17,7 @@
     ReplaceMergeNode="false" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/A-Introduction-Topics/Getting-Started.htm"
+    Link="/Content/01_Introduction_to_Eurorack_Modular_Synthesis/Getting-Started.htm"
     StartChapter="true"
     PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
     PageNumber="1"
@@ -33,10 +33,10 @@
     AutoEndOnLeftPage="enabled"></TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/A-Introduction-Topics/More-Information.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    Link="/Content/01_Introduction_to_Eurorack_Modular_Synthesis/More-Information.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/B-Feature-Topics/Features.htm"
+    Link="/Content/03_A_Rundown_of_Eurorack_Synthesis_Components/Features.htm"
     StartChapter="true"
     PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
     PageNumber="1"
@@ -49,13 +49,13 @@
     ChapterNumberReset="continue">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/B-Feature-Topics/Feature1.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/03_A_Rundown_of_Eurorack_Synthesis_Components/Feature1.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/B-Feature-Topics/Feature2.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/03_A_Rundown_of_Eurorack_Synthesis_Components/Feature2.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/B-Feature-Topics/Feature3.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Link="/Content/03_A_Rundown_of_Eurorack_Synthesis_Components/Feature3.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
