@@ -7,7 +7,7 @@
   GlossaryTermConversion="marked"
   MasterPage="/Content/Resources/TemplatePages/Other-Topics.flmsp"
   DefaultUrl="/Content/Index.htm"
-  ConditionTagExpression="include[Default.ScreenOnly] exclude[Default.PrintOnly] "
+  ConditionTagExpression=""
   ShowMadCapBacklink="true"
   MasterToc="/Project/TOCs/Online.fltoc"
   ResolveCssVariables="true">

@@ -28,4 +28,8 @@
     BackgroundColor="#f7f6f6"
     Name="Topic"
     Comment="Topic title styling." />
+  <ConditionTag
+    BackgroundColor="#5b818d"
+    Name="Glossary entry"
+    Comment="Glossary entry styling." />
 </CatapultConditionTagSet>
