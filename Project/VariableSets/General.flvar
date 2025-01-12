@@ -1,29 +1,30 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultVariableSet>
   <Variable
     Comment=""
     Name="CompanyName"
-    EvaluatedDefinition="My Company Name, LLC">My Company Name, LLC</Variable>
+    EvaluatedDefinition="EnglishCloud Dawid Kowalski">EnglishCloud Dawid Kowalski</Variable>
   <Variable
     Comment=""
-    Name="PhoneNumber">858 123 4567</Variable>
+    Name="PhoneNumber"
+    EvaluatedDefinition="+48509301677">+48509301677</Variable>
   <Variable
     Name="Email"
     Comment=""
-    EvaluatedDefinition="info@yourcompany.com">info@yourcompany.com</Variable>
+    EvaluatedDefinition="kowalski.dawid@gmail.com">kowalski.dawid@gmail.com</Variable>
   <Variable
     Name="StreetAddress"
     Comment=""
-    EvaluatedDefinition="1234 Lorem Ipsum Ave.">1234 Lorem Ipsum Ave.</Variable>
+    EvaluatedDefinition="ul. Kazimierza Kaznowskiego 5/55">ul. Kazimierza Kaznowskiego 5/55</Variable>
   <Variable
     Name="CityStateZip"
     Comment=""
-    EvaluatedDefinition="La Jolla, CA 92037">La Jolla, CA 92037</Variable>
+    EvaluatedDefinition="Kielce, Swietokrzyskie, 25-636">Kielce, Swietokrzyskie, 25-636</Variable>
   <Variable
     Name="UserGuideTitle"
     Comment=""
     OriginalName="PDFGuideTitle"
-    EvaluatedDefinition="Product User Guide">Product User Guide</Variable>
+    EvaluatedDefinition="Layman's Guide to Eurorack Modular Synthesis">Layman's Guide to Eurorack Modular Synthesis</Variable>
   <Variable
     Name="VersionNumber"
     OriginalName="VersionNumberDot">1.0</Variable>

@@ -17,7 +17,6 @@
     ReplaceMergeNode="false" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/01_Introduction_to_Eurorack_Modular_Synthesis/Getting-Started.htm"
     StartChapter="true"
     PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
     PageNumber="1"
@@ -32,11 +31,9 @@
     StartSection="false"
     AutoEndOnLeftPage="enabled"></TocEntry>
   <TocEntry
-    Title="[%=System.LinkedTitle%]"
-    Link="/Content/01_Introduction_to_Eurorack_Modular_Synthesis/More-Information.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    Title="[%=System.LinkedTitle%]" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/03_A_Rundown_of_Eurorack_Synthesis_Components/Features.htm"
     StartChapter="true"
     PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl"
     PageNumber="1"
@@ -48,14 +45,11 @@
     VolumeNumberReset="same"
     ChapterNumberReset="continue">
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/03_A_Rundown_of_Eurorack_Synthesis_Components/Feature1.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Title="[%=System.LinkedTitle%]" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/03_A_Rundown_of_Eurorack_Synthesis_Components/Feature2.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Title="[%=System.LinkedTitle%]" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/03_A_Rundown_of_Eurorack_Synthesis_Components/Feature3.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      Title="[%=System.LinkedTitle%]" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"

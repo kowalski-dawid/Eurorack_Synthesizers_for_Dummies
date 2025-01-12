@@ -2,48 +2,8 @@
 <CatapultToc
   Version="1">
   <TocEntry
-    Title="[%=System.LinkedTitle%] "
-    Link="/Content/01_Introduction_to_Eurorack_Modular_Synthesis/Getting-Started.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    Title="New TOC Book">
     <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/01_Introduction_to_Eurorack_Modular_Synthesis/Whats-New.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/01_Introduction_to_Eurorack_Modular_Synthesis/More-Information.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
+      Title="New Entry" />
   </TocEntry>
-  <TocEntry
-    Title="[%=System.LinkedTitle%]"
-    Link="/Content/03_A_Rundown_of_Eurorack_Synthesis_Components/Features.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/03_A_Rundown_of_Eurorack_Synthesis_Components/Feature1.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/03_A_Rundown_of_Eurorack_Synthesis_Components/Feature2.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/03_A_Rundown_of_Eurorack_Synthesis_Components/Feature3.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-  </TocEntry>
-  <TocEntry
-    Title="[%=System.LinkedTitle%]"
-    Link="/Content/C-Procedure-Topics/Procedures.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/C-Procedure-Topics/Procedure1.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/C-Procedure-Topics/Procedure2.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/C-Procedure-Topics/Procedure3.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-  </TocEntry>
-  <TocEntry
-    Title="[%=System.LinkedTitle%]"
-    Link="/Content/05_Literature_and_References/FAQs.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-  <TocEntry
-    Title="[%=System.LinkedTitle%]"
-    Link="/Content/05_Literature_and_References/Tips.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-  <TocEntry
-    Title="[%=System.LinkedTitle%]"
-    Link="/Content/05_Literature_and_References/Company.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
 </CatapultToc>

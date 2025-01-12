@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="WebHelp2"
+  Destinations=""
+  ShowMadCapBacklink="true"
+  GlossaryTermConversion="marked"
+  DefaultUrl="/Content/00_Table_of_Contents.htm"
+  MasterToc="/Project/TOCs/Online.fltoc"
+  BrandingStylesheet="/Content/Resources/Branding/Branding.css"
+  MasterStylesheet="/Content/Resources/Stylesheets/Styles.css"
+  GetLatestBeforeCompile="true"
+  Skin="/Project/Skins/Side-Navigation.flskn">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true"
+    OutputFormat="docx" />
+  <PDF
+    Tagged="true"
+    TitleBar="DocumentTitle" />
+  <MicroContentSearch>
+    <FeaturedSnippets
+      type="AllFiles"
+      numberOfResults="1">
+      <microContentSubset />
+    </FeaturedSnippets>
+    <KnowledgePanel
+      type="Empty"
+      numberOfResults="1">
+      <microContentSubset />
+    </KnowledgePanel>
+  </MicroContentSearch>
+</CatapultTarget>
