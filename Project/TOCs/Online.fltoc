@@ -2,7 +2,8 @@
 <CatapultToc
   Version="1">
   <TocEntry
-    Title="New TOC Book">
+    Title="New TOC Book"
+    Link="/Content/01_Introduction_to_Eurorack_Modular_Synthesis/01_01_A_Brief_Introduction_to_Eurorack_Modular_Synthesizers.htm">
     <TocEntry
       Title="New Entry" />
   </TocEntry>
