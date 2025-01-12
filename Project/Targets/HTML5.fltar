@@ -6,7 +6,7 @@
   Destinations=""
   GlossaryTermConversion="marked"
   MasterPage="/Content/Resources/TemplatePages/Other-Topics.flmsp"
-  DefaultUrl="/Content/00_00_01_Index.htm"
+  DefaultUrl="/Content/Index.htm"
   ConditionTagExpression="include[Default.ScreenOnly] exclude[Default.PrintOnly] "
   ShowMadCapBacklink="true"
   MasterToc="/Project/TOCs/Online.fltoc"
